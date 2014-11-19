@@ -1,6 +1,6 @@
 {
   "name": "k-starter",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "A generic server for a simple Derby app",
   "main": "lib/index.js",
   "repository": {
@@ -16,7 +16,7 @@
     "url": "https://github.com/kantele/k-starter/issues"
   },
   "dependencies": {
-    "k-client": "0.6.0-alpha28",
+    "k-client": "0.6.0-alpha28.1",
     "express": "~3",
     "coffee-script": "~1.7.1",
     "coffeeify": "~0.6.0",
