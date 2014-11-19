@@ -1,11 +1,11 @@
 {
-  "name": "derby-starter",
+  "name": "k-starter",
   "version": "0.2.5",
   "description": "A generic server for a simple Derby app",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/codeparty/derby-starter.git"
+    "url": "git://github.com/kantele/k-starter.git"
   },
   "keywords": [
     "derby"
@@ -13,17 +13,17 @@
   "author": "Nate Smith",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codeparty/derby-starter/issues"
+    "url": "https://github.com/kantele/k-starter/issues"
   },
   "dependencies": {
-    "derby": "0.6.0-alpha28",
-    "express": "~3.4.8",
+    "k-derby": "0.6.0-alpha28",
+    "express": "~3",
     "coffee-script": "~1.7.1",
     "coffeeify": "~0.6.0",
     "redis": "~0.10.1",
     "connect-redis": "~1.4.7",
-    "racer-highway": "^1.4.1",
-    "racer-bundle": "~0.1.1",
+    "k-highway": "^1.4.1",
+    "k-bundle": "~0.1.1",
     "livedb-mongo": "~0.3.0"
   },
   "optionalDependencies": {
